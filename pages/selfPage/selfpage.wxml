@@ -1,0 +1,12 @@
+<!--pages/selfpage.wxml-->
+
+<view class="self_container">
+  <view class="fang one">
+    <image  src="../../static/img/jiantou-right.png" alt=""></image>
+    <text class="muyuText">木鱼</text>
+  </view>
+  <view class="fang two">
+    <image  src="../../static/img/jiantou.png" alt=""></image>
+    <text class="bbsText">BBS</text> 
+  </view>
+</view>
